@@ -2,7 +2,7 @@
 ### Hi there | Olá pessoal | Salut | Hallo 👋
 
 
-- 🔭 I’m currently working on a College project to help with the covid-19 pandemic
+- 🔭 I’m currently working on finishing my Bachelor in CS
 - 🌱 I’m currently learning Javascript, Azure and DevSecOps
 - 👯 I’m looking to collaborate on opensource projects :D
 - 💬 Ask me about computer networking, cloud in general and Java
