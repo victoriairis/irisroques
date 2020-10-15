@@ -9,5 +9,5 @@
 - 📫 How to reach me: 
     [![Linkedin Badge](https://img.shields.io/badge/-VictoriaSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoria-santana-07170a174/)](https://www.linkedin.com/in/victoria-santana-07170a174/) 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm a polyglot, musician and love animals
+
 
