@@ -3,7 +3,8 @@
 
 
 - 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree
-- 🌱 I’m currently learning IaC, Kubernetes and Hybrid Cloud
+- :hospital: I do research in HealthTech
+- 🌱 I’m currently learning more about IaC, Kubernetes and Hybrid Cloud
 - 👯 I’m looking to collaborate on opensource projects :D
 - 💬 Ask me about computer networking, cloud in general and Java
 - 📫 How to reach me: 
