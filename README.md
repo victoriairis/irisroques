@@ -4,7 +4,8 @@
 
 - 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree
 - :hospital: I do research in HealthTech
-- 🌱 I’m currently learning more about IaC, Kubernetes and Hybrid Cloud
+- :100: Doing the 100 days of code challenge
+- 🌱 I’m currently learning more about IaC, Kubernetes and Go
 - 👯 I’m looking to collaborate on opensource projects :D
 - 💬 Ask me about computer networking, cloud in general and Java
 - 📫 How to reach me: 
