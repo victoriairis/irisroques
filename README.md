@@ -2,7 +2,7 @@
 ### Hi there | Olá pessoal | Salut | Hallo 👋
 
 
-- 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree
+- 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree also in Computer Science @ UFERSA
 - :hospital: I do research in HealthTech
 - :100: ~Doing~ Trying the 100 days of code challenge
 - 🌱 I’m currently learning more about IaC, Kubernetes and Go
