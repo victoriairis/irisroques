@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree also in Computer Science @ UFERSA
-- :hospital: I do research in Machine Learning applied to HealthTech
+- :hospital: I do research in Machine Learning and Artificial Intelligence applied to HealthTech
 - :100: ~Doing~ Trying the 100 days of code challenge
 - 🌱 I’m currently learning more about Kubernetes, Python and Artificial Intelligence
 - 👯 I’m looking to collaborate on opensource projects :D
