@@ -14,4 +14,6 @@
 </a>
 - 😄 Pronouns: She/her
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irisroques&layout=compact)](https://github.com/irisroques/github-readme-stats)
+
 
