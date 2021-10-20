@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning more about Kubernetes, Python and Artificial Intelligence
 - 👯 I’m looking to collaborate on opensource projects :D
 - 💬 Ask me about computer networking, cloud in general and Java
+- Trying to code a little bit everyday and get 100% on urijudgeonline with Python! https://www.urionlinejudge.com.br/judge/pt/profile/440145
 - 😄 Pronouns: She/her
 - 📫 How to reach me: 
     [![Linkedin Badge](https://img.shields.io/badge/-VictoriaIris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoria-santana-07170a174/)](https://www.linkedin.com/in/irisroques/) 
