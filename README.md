@@ -3,11 +3,10 @@
 
 
 - 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree also in Computer Science @ UFERSA
-- :hospital: I do research in Machine Learning and Artificial Intelligence applied to SmartCities
-- 🌱 I’m currently learning more about Kubernetes, Python and Artificial Intelligence
+- :hospital: I do research in Machine Learning and Artificial Intelligence applied to Agriculture
+- 🌱 I’m currently learning more about Kubernetes and CLoud
 - 👯 I’m looking to collaborate on opensource projects :D
-- 💬 Ask me about computer networking, cloud in general and Java
-- Trying to code a little bit everyday and get 100% on urijudgeonline with Python! https://www.urionlinejudge.com.br/judge/pt/profile/440145
+- 💬 Ask me about Linux and Java
 - 😄 Pronouns: She/her
 - 📫 How to reach me: 
     [![Linkedin Badge](https://img.shields.io/badge/-VictoriaIris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoria-santana-07170a174/)](https://www.linkedin.com/in/irisroques/) 
