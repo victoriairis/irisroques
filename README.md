@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree also in Computer Science @ UFERSA
-- :hospital: I do research in Machine Learning and Artificial Intelligence applied to Agriculture
-- 🌱 I’m currently learning more about Kubernetes and CLoud
+- :hospital: I do research in Machine Learning and Artificial Intelligence applied to Healthcare
+- 🌱 I’m currently learning more about IaC and C++
 - 👯 I’m looking to collaborate on opensource projects :D
-- 💬 Ask me about Linux and Java
+- 💬 Ask me about Linux Servers and Java
 - 😄 Pronouns: She/her
 - 📫 How to reach me: 
     [![Linkedin Badge](https://img.shields.io/badge/-VictoriaIris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoria-santana-07170a174/)](https://www.linkedin.com/in/irisroques/) 
