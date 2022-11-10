@@ -4,7 +4,7 @@
 
 - 🔭 I’m a Computer Scientist, B.Sc, working towards my masters degree also in Computer Science @ UFERSA
 - :hospital: I do research in Machine Learning and Artificial Intelligence applied to Healthcare
-- 🌱 I’m currently learning more about IaC and C++
+- 🌱 I’m currently learning more about IaC 
 - 👯 I’m looking to collaborate on opensource projects :D
 - 💬 Ask me about Linux Servers and Java
 - 😄 Pronouns: She/her
